@@ -1,0 +1,2 @@
+x=(AA^T)^{-1}A^Tb for Ax=b approx
+A^{-1} use LU or QR decomposition
